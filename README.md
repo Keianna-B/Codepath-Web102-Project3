@@ -1,10 +1,10 @@
 # Web Development Project 3 - *Language Flashcards improved*
 
-Submitted by: **Your Name Here**
+Submitted by: **Keianna Brown**
 
 This web app: **insert description**
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
@@ -45,7 +45,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Keianna Brown]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
