@@ -25,6 +25,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 * [x] Users can review a set of cards that they have gotten incorrect. Cards are removed from this set once the player gets them correct.
+* [x] Can finish flashcards after the end of a card set has been reached. Displays current and longest streak.
 
 ## Video Walkthrough
 
