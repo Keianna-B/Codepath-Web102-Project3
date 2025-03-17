@@ -2,9 +2,9 @@
 
 Submitted by: **Keianna Brown**
 
-This web app: **insert description**
+This web app: **Interactive Korean flashcards**
 
-Time spent: **3** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
@@ -17,14 +17,14 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] A shuffle button is used to randomize the order of the cards
+- [x] A shuffle button is used to randomize the order of the cards
 - [ ] A user's answer may be counted as correct even when it is slightly different from the target answer
-- [ ] A counter displays the user's current and longest streak of correct responses
+- [x] A counter displays the user's current and longest streak of correct responses
 - [ ] A user can mark a card that they have mastered and have it removed from the pool of answers as well as added to a list of mastered cards
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you added to improve the site's functionality!
+* [x] Users can review a set of cards that they have gotten incorrect. Cards are removed from this set once the player gets them correct.
 
 ## Video Walkthrough
 
